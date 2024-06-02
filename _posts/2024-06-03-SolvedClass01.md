@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "SolvedClass01.md"
+title:  "SolvedClass01"
 ---
 
 ```
