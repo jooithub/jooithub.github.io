@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "2024-06-03-SolvedClass01.md"
+title:  "SolvedClass01.md"
 ---
 
 ```
